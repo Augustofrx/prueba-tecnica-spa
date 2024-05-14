@@ -1,0 +1,11 @@
+[
+    { "id": 1, "photo": "https://mighty.tools/mockmind-api/content/human/76.jpg", "name": "Ana Martínez", "message": "La atención al cliente es excepcional, siempre resuelven mis dudas de manera rápida y eficiente." },
+    { "id": 2, "photo": "https://mighty.tools/mockmind-api/content/human/72.jpg", "name": "Carlos González", "message": "He tenido varias experiencias con la aseguradora y siempre han cumplido con lo prometido, son muy confiables." },
+    { "id": 3, "photo": "https://mighty.tools/mockmind-api/content/human/71.jpg", "name": "Laura Pérez", "message": "Los precios son muy competitivos y la cobertura que ofrecen es amplia, estoy muy satisfecha con mi seguro." },
+    { "id": 4, "photo": "https://mighty.tools/mockmind-api/content/human/23.jpg", "name": "David Sánchez", "message": "Gracias a la aseguradora, he podido resolver problemas médicos sin preocuparme por los costos, un servicio de calidad." },
+    { "id": 5, "photo": "https://mighty.tools/mockmind-api/content/human/55.jpg", "name": "María García", "message": "Siempre recomiendo esta aseguradora a mis amigos y familiares, tienen una excelente relación calidad-precio." },
+    { "id": 6, "photo": "https://mighty.tools/mockmind-api/content/human/50.jpg", "name": "Javier Rodríguez", "message": "La plataforma digital es muy fácil de usar y me permite gestionar mi póliza de manera cómoda desde cualquier lugar." },
+    { "id": 7, "photo": "https://mighty.tools/mockmind-api/content/human/49.jpg", "name": "Sofía Fernández", "message": "La rapidez en la tramitación de siniestros es impresionante, en menos de 24 horas ya tenía todo solucionado." },
+    { "id": 8, "photo": "https://mighty.tools/mockmind-api/content/human/37.jpg", "name": "Diego Martín", "message": "He renovado mi seguro varias veces y siempre obtengo beneficios adicionales, como descuentos y servicios extras." },
+    { "id": 9, "photo": "https://mighty.tools/mockmind-api/content/human/28.jpg", "name": "Lucía Pérez", "message": "El equipo de atención al cliente es muy amable y siempre están dispuestos a ayudar en lo que necesite." }
+]
